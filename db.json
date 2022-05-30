@@ -1,0 +1,250 @@
+{
+  "admin": [
+    {
+      "admin_name": "admin",
+      "admin_password": "1234"
+    }
+  ],
+  "subject": [
+    {
+      "subject_name": "Mikroişlemciler",
+      "id": 3
+    },
+    {
+      "subject_name": "Mikrodenetleyiciler",
+      "id": 4
+    },
+    {
+      "subject_name": "Bilgisayar Ağları",
+      "id": 5
+    },
+    {
+      "subject_name": "Mantıksal Devre Tasarımı",
+      "id": 6
+    },
+    {
+      "subject_name": "Elektrik Devreleri",
+      "id": 7
+    },
+    {
+      "subject_name": "Bilgisayar Tasarımı ve Organizasyonu",
+      "id": 8
+    },
+    {
+      "subject_name": "Sistem Programlama",
+      "id": 9
+    },
+    {
+      "subject_name": "Web Teknolojileri",
+      "id": 10
+    },
+    {
+      "subject_name": "Veri İletişimi",
+      "id": 11
+    },
+    {
+      "subject_name": "Veritabanı Sistemleri",
+      "id": 12
+    },
+    {
+      "subject_name": "İşletim Sistemleri",
+      "id": 13
+    },
+    {
+      "subject_name": "Yapay Zeka",
+      "id": 14
+    },
+    {
+      "subject_name": "Derin Öğrenme",
+      "id": 15
+    },
+    {
+      "subject_name": "Veri Gizleme",
+      "id": 16
+    }
+  ],
+  "Exam": [
+    {
+      "exam_name": "Mikrodenetleyiciler",
+      "exam_desc": "Güz Vize",
+      "exam_level": "Orta",
+      "exam_passMarks": "50",
+      "exam_totalQuestion": "10",
+      "exam_marks": "1000",
+      "exam_date": "29-5-2022 23:38:54",
+      "id": 3
+    },
+    {
+      "exam_name": "Bilgisayar Ağları",
+      "exam_desc": "Güz Vize",
+      "exam_level": "Orta",
+      "exam_passMarks": "50",
+      "exam_totalQuestion": "5",
+      "exam_marks": "100",
+      "exam_date": "29-5-2022 23:53:57",
+      "id": 4
+    }
+  ],
+  "Question": [
+    {
+      "question_name": "Komut genişliği 16 bit olan bir işlemci için program hafızası 32kByte seçilmiştir. Program hafızasına yazılabilecek toplam komut sayısı nedir?",
+      "option_one": "16",
+      "option_two": "32",
+      "option_three": "16384",
+      "option_four": "128",
+      "question_answer": "16384",
+      "exam_id": "3",
+      "subject_name": "Mikrodenetleyiciler",
+      "id": 1
+    },
+    {
+      "question_name": "Yazılan programın bittiğini belirtmek için hangi komut kullanılır ?",
+      "option_one": "END",
+      "option_two": "QUIT",
+      "option_three": "EXIT",
+      "option_four": "GOTO",
+      "question_answer": "END",
+      "exam_id": "3",
+      "subject_name": "Mikrodenetleyiciler",
+      "id": 2
+    },
+    {
+      "question_name": "Bir portun giriş veya çıkış olarak programlanabilmesi için hangi kaydedici(ler) kullanılır?",
+      "option_one": "CPU",
+      "option_two": "PORT",
+      "option_three": "TRIS",
+      "option_four": "STATUS",
+      "question_answer": "STATUS",
+      "exam_id": "3",
+      "subject_name": "Mikrodenetleyiciler",
+      "id": 3
+    },
+    {
+      "question_name": "\" ..... mikrodenetleyicinin o an gerçekleştirdiği işleme bakmaksızın belirli  şartların oluşması durumunda yaptığı işi bırakarak farklı bir işlem yapmasını  sağlayan mekanizmadır. \"  Yukarıdaki tanımda noktalı yere hangi ifade gelmelidir ?",
+      "option_one": "Bölme",
+      "option_two": "Kaydetme",
+      "option_three": "Kesme",
+      "option_four": "Hiçbiri",
+      "question_answer": "Kesme",
+      "exam_id": "3",
+      "subject_name": "Mikrodenetleyiciler",
+      "id": 4
+    },
+    {
+      "question_name": "PIC’ i uyku moduna geçiren komut hangisidir?",
+      "option_one": "FMRASK",
+      "option_two": "SLEEP",
+      "option_three": "FREEZ",
+      "option_four": "MPLAB",
+      "question_answer": "SLEEP",
+      "exam_id": "3",
+      "subject_name": "Mikrodenetleyiciler",
+      "id": 5
+    },
+    {
+      "question_name": "16 serisi PIC’ler kaç Volt ile beslenirler?",
+      "option_one": "10",
+      "option_two": "0.5",
+      "option_three": "5",
+      "option_four": "0.4",
+      "question_answer": "5",
+      "exam_id": "3",
+      "subject_name": "Mikrodenetleyiciler",
+      "id": 6
+    },
+    {
+      "question_name": "Aşağıdakilerden hangisi mikrobilgisayar sisteminde yoktur?",
+      "option_one": "RAM",
+      "option_two": "Klavye",
+      "option_three": "ROM",
+      "option_four": "G/Ç birimi",
+      "question_answer": "Klavye",
+      "exam_id": "3",
+      "subject_name": "Mikrodenetleyici",
+      "id": 7
+    },
+    {
+      "question_name": "Dekuplaj kondansatörü ne işe yarar?",
+      "option_one": "Gerilim dalgalanmalarının sebep olabileceği arızaları önler",
+      "option_two": "OSC1 ucundan uygulanan saat frekansını ikiye katlar",
+      "option_three": "PIC geri besleme uçlarını topraklamaya yarar",
+      "option_four": "Osilatör akımını yakalar",
+      "question_answer": "PIC geri besleme uçlarını topraklamaya yarar",
+      "exam_id": "3",
+      "subject_name": "Mikrodenetleyiciler",
+      "id": 8
+    },
+    {
+      "question_name": "Aşağıdakilerden hangisi network topolojilerindendir?",
+      "option_one": "Bus (Doğrusal)",
+      "option_two": "Hub",
+      "option_three": "Node",
+      "option_four": "Client",
+      "question_answer": "Bus (Doğrusal)",
+      "exam_id": "4",
+      "subject_name": "Bilgisayar Ağları",
+      "id": 9
+    },
+    {
+      "question_name": "“Network üzerindeki bilgisayarlar Ethernet kartları aracılığıyla birbirleriyle iletişim kurarlar. Ethernet kartları adresleri 48 bitlik kodlardır. Her bir kartın ayrı bir adresi vardır.” Bu adresin ismi denir?",
+      "option_one": "NIC",
+      "option_two": "IP",
+      "option_three": "MAC",
+      "option_four": "Ethernet",
+      "question_answer": "MAC",
+      "exam_id": "3",
+      "subject_name": "Bilgisayar Ağları",
+      "id": 10
+    }
+  ],
+  "Result": [
+    {
+      "result_status": "Kaldı",
+      "result_score": 1,
+      "user_email": "agni@gmail.com",
+      "exam_date": "30-5-2022 0:13:21",
+      "exam_name": "..",
+      "total_marks": "5",
+      "exam_id": "4",
+      "total_Question": "5",
+      "id": 13
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "user_name": "Nail Emre Avan",
+      "user_email": "avan@gmail.com",
+      "user_password": "1234"
+    },
+    {
+      "user_name": "Buse Demirbilek",
+      "user_email": "demirbilek@gmail.com",
+      "user_password": "1234",
+      "id": 3
+    },
+    {
+      "user_name": "Sinem Ablak",
+      "user_email": "ablak@gmail.com",
+      "user_password": "123",
+      "id": 5
+    },
+    {
+      "user_name": "Adem Dinler",
+      "user_email": "dinler@gmail.com",
+      "user_password": "123",
+      "id": 5
+    },    {
+      "user_name": "Halil Özler",
+      "user_email": "ozler@gmail.com",
+      "user_password": "123",
+      "id": 5
+    },
+    {
+      "user_name": "Gülay Adıgüzel",
+      "user_email": "adiguzel@gmail.com",
+      "user_password": "123",
+      "id": 5
+    }
+  ]
+}

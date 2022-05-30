@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "email": "irfan@kku.edu.tr",
+    "jobTitle": "Dr. Öğr. Üyesi",
+    "fullName": "İrfan Atabaş",
+    "img": "https://bm.kku.edu.tr/Content/bm/bm/irfanatabas.jpg?w=253&h=253&mode=crop"
+  },
+  {
+    "id": 2,
+    "email": "unver@kku.edu.tr",
+    "jobTitle": "Doç. Dr.",
+    "fullName": "Halil Murat Ünver",
+    "img": "https://bm.kku.edu.tr/Content/bm/bm/halilmuratunver.JPG?w=253&h=253&mode=crop"
+  },
+  {
+    "id": 3,
+    "email": "emiroglu@kku.edu.tr",
+    "jobTitle": "Doç. Dr.",
+    "fullName": "Bülent Gürsel Emiroğlu",
+    "img": "https://bm.kku.edu.tr/Content/bm/bm/bulentgurselemiroglu.JPG?w=253&h=253&mode=crop"
+  },
+  {
+    "id": 4,
+    "email": "atilla@kku.edu.tr",
+    "jobTitle": "Doç. Dr.",
+    "fullName": "Atilla Ergüzen",
+    "img": "https://bm.kku.edu.tr/Content/bm/AkademikPersonel/Vesikalilk/AtillaErguzen.JPG?w=253&h=253&mode=crop"
+  },
+  {
+    "id": 5,
+    "email": "erdalerdal@kku.edu.tr",
+    "jobTitle": "Dr. Öğr. Üyesi",
+    "fullName": "Erdal Erdal",
+    "img": "https://bm.kku.edu.tr/Content/bm/%C4%B0ceriikIcerik/erdalhoca.jpg?w=253&h=253&mode=crop"
+  },
+  {
+    "id": 6,
+    "email": "fvarcin@kku.edu.tr",
+    "jobTitle": "Dr. Öğr. Üyesi",
+    "fullName": "Fatih Varçın",
+    "img": "https://bm.subu.edu.tr/sites/bm.subu.edu.tr/files/gbb-uploads/WhatsApp%20Image%202022-04-05%20at%2017.36.44-y3l8gu.png"
+  },
+  {
+    "id": 7,
+    "email": "krobertshaw6@unesco.org",
+    "jobTitle": "Dr. Öğr. Üyesi",
+    "fullName": "Enes Ayan",
+    "img": "https://bm.kku.edu.tr/Content/bm/bm/enesayan.jpg?w=253&h=253&mode=crop"
+  },
+  {
+    "id": 8,
+    "email": "fhorasan@kku.edu.tr",
+    "jobTitle": "Dr. Öğr. Üyesi",
+    "fullName": "Fahrettin Horosan",
+    "img": "https://bm.kku.edu.tr/Content/bm/bm/fahrettinhorasan-eba.jpg?w=253&h=253&mode=crop"
+  }
+]

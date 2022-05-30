@@ -1,0 +1,42 @@
+.popular-course {
+  height: 450px;
+}
+.popular-course img {
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+.popular-course-title{
+  cursor: pointer;
+}
+.popular-course-level {
+  background-color: #e7e8ff;
+  color: #8086fe;
+  width: max-content;
+  padding: 3px 8px;
+  border-radius: 2px;
+  font-size: 12px;
+}
+.popular-course-category {
+  color: #0071dc;
+}
+.popular-course-price,
+.popular-course-price-free,
+.popular-course-price-video,
+.popular-course-price-enroll {
+  font-size: 18px;
+  font-weight: 600;
+  width: max-content;
+  padding: 6px 18px;
+  border-radius: 3px;
+}
+.popular-course-price {
+  background-color: #dda83f;
+  color: #000;
+}
+.star-icon {
+  color: #dda83f;
+}
+.users-icon {
+  color: #0071dc;
+}

@@ -1,0 +1,111 @@
+#container {
+    background-color: white;
+    height: 470px;
+    width: 500px;
+    margin-top: 70px;
+    margin-left: 390px;
+    float: left;
+    border: 1px solid #dda83f;
+}
+
+#containerHeadingBox {
+    background-color: white;
+    width: 400px;
+    margin-left: 50px;
+    float: left;
+    text-align: center;
+}
+
+#containerHeadingBox h1 {
+    color: #dda83f;
+
+    margin: 10px 10px;
+
+}
+
+#emailBox,
+#passwordBox {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left;
+    width: 500px;
+
+}
+
+#emailBox label,
+#passwordBox label {
+    margin-left: 10%;
+    margin-bottom: 20px;
+    font-size: 23px;
+    color: #dda83f;
+}
+
+#emailBox input,
+#passwordBox input {
+    font-size: x-large;
+    display: block;
+    width: 150%;
+    margin-top: 10px;
+}
+
+#forgotBox {
+    float: left;
+    width: 500px;
+    text-align: right;
+}
+
+#forgotBox a {
+    text-decoration: none;
+    color: #dda83f;
+    font-size: 18px;
+    margin-right: 10%;
+}
+
+#forgotBox a:hover {
+    text-decoration: underline;
+    color: #dda83f;
+}
+
+#login {
+    margin-top: 15px;
+    margin-left: 10%;
+
+    font-size: x-large;
+    text-align: center;
+    width: 80%;
+    height: 40px;
+    color: white;
+    background-color: #dda83f;
+    cursor: pointer;
+
+}
+
+
+#login:hover {
+    background-color: #dda83f;
+
+}
+
+#signup {
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+#signup a {
+    text-decoration: none;
+    color: #dda83f;
+}
+
+
+#signup a:hover {
+    text-decoration: underline;
+    color: #dda83f;
+}
+
+#goBackLink {
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+}

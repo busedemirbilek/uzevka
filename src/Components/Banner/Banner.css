@@ -1,0 +1,30 @@
+.header-home {
+  background-image: linear-gradient(
+      to right,
+      rgba(29, 42, 68, 0.8),
+      rgba(29, 42, 68, 0.8)
+    ),
+    url(../../../src/images/banner-2.jpg);
+  min-height: 90vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;
+}
+.header-info {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  line-height: 1.6;
+}
+.header-info h1 {
+  font-size: 50px;
+  font-weight: 700;
+}
+.header-info p {
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+

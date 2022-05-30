@@ -1,0 +1,83 @@
+.course {
+  height: 430px;
+}
+.course img {
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+.course-category,
+.course-instructor,
+.course-duration,
+.course-price,
+.course-price-free,
+.rating,
+.users-icon {
+  font-size: 14px;
+}
+.course-level {
+  background-color: #e7e8ff;
+  color: #8086fe;
+  width: max-content;
+  padding: 3px 8px;
+  border-radius: 2px;
+  font-size: 12px;
+}
+
+.course-category {
+  color: #0071dc;
+}
+.course-title {
+  font-size: 16px;
+  cursor: pointer;
+}
+.course-duration {
+  background-color: #ffe4e8;
+  color: #ff4a60;
+  width: max-content;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-weight: 600;
+}
+.course-price,
+.course-price-free,
+.course-price-enroll {
+  font-weight: 600;
+  width: max-content;
+  padding: 6px 18px;
+  border-radius: 30px;
+}
+.course-price {
+  background-color: #dda83f;
+  color: #000;
+}
+.course-price-free {
+  background-color: #6cbd7e;
+  color: #fff;
+}
+.course-price-enroll {
+  background-color: #145a23;
+  color: #fff;
+  cursor: pointer;
+}
+.rating {
+  color: #dda83f;
+}
+.users-icon {
+  color: #0071dc;
+}
+.popular-course-price,
+.popular-course-price-free,
+.popular-course-price-video,
+.popular-course-price-enroll {
+  font-size: 18px;
+  font-weight: 600;
+  width: max-content;
+  padding: 6px 18px;
+  border-radius: 3px;
+}
+.popular-course-price {
+  background-color: #dda83f;
+  color: #000;
+}
+
